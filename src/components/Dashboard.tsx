@@ -325,7 +325,7 @@ export function Dashboard({ session }: DashboardProps) {
           <div className="bg-white rounded-xl p-6 border border-gray-100">
             <div className="flex items-center gap-2 mb-4">
               <span className="text-xl">💰</span>
-              <h2 className="text-xl font-semibold">MMR Goal</h2>
+              <h2 className="text-xl font-semibold">MRR Goal</h2>
             </div>
             <div className="mb-6">
               <div className="flex justify-between items-center mb-2">

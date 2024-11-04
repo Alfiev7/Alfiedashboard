@@ -43,7 +43,7 @@ export function GoalSetup({ onSave }: Props) {
           </div>
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-2">
-              MMR Goal ($)
+              MRR Goal ($)
             </label>
             <input
               type="number"
